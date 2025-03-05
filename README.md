@@ -1,8 +1,7 @@
 # Resume
 
-**Björn Kawecki**  
 **Junior Developer**  
-Berlin, Deutschland  
+Berlin, Germany  
 
 📧 [bkawecki@mailbox.org](mailto:bkawecki@mailbox.org) | 🌍 [bjoernkawecki.de](http://bjoernkawecki.de) | 💼 [GitHub](https://github.com/bjkawecki) | 🔗 [LinkedIn](https://www.linkedin.com/in/bj%C3%B6rnkawecki)  
 
@@ -48,5 +47,5 @@ Berlin, Deutschland
 
 ---
 
-*Last update: 3. März 2025*
+*Last update: 3. March 2025*
 
