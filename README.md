@@ -24,7 +24,7 @@ Berlin, Germany
 ---
 
 ### 💼 **Experience**
-#### **Russian learning platform „Bajkal“** – *Berlin* (Since 2020)
+#### **Russian learning platform „Bajkal“** (Since 2020)
 
 **Design & Engineering**
 - Planning and development of the data model with Django ORM
