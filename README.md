@@ -16,7 +16,7 @@ Berlin, Germany
 
 ### 🔧 **Skills**
 **Back-End:** Django, REST API, SQL, Jekyll  
-**Front-End:** HTML5, CSS, Tailwind CSS, HTMX  
+**Front-End:** HTML5, CSS, Tailwind CSS, HTMX, UI Design
 **Programming:** Python, JavaScript, Bash  
 **DevOps:** Linux, Docker, AWS, Git  
 **Languages:** German, English, Russian
