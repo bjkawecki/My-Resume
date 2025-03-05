@@ -40,10 +40,10 @@ Berlin, Germany
 #### **Certified AWS Cloud Engineer (on-going)**  
 *Certification as an AWS Cloud Engineer, Berlin (12/2024 – 12/2025)*  
 
-#### **M.A. Russian Studies**  
+#### **M.A. in Russian Studies**  
 *University of Freiburg & RGGU Moscow (2018 – 2021)*  
 
-#### **B.A. Russian Studies & Philosophy**  
+#### **B.A. in Russian Studies & Philosophy**  
 *University of Freiburg (2013 – 2018)*  
 
 ---
