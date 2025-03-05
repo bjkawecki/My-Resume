@@ -36,7 +36,7 @@ Berlin, Germany
 ---
 
 ### 🎓 **Education**
-#### **Zertifizierter AWS-Cloud-Engineer**  
+#### **Certified AWS Cloud Engineer (on-going)**  
 *Certification as an AWS Cloud Engineer, Berlin (12/2024 – 12/2025)*  
 
 #### **M.A. Russian Studies**  
