@@ -19,7 +19,7 @@ Berlin, Germany
 **Front-End:** HTML5, CSS, Tailwind CSS, HTMX  
 **Programmierung:** Python, JavaScript, Bash  
 **DevOps:** Linux, Docker, AWS, Git  
-**Sprachen:** German, English, Russian
+**Languages:** German, English, Russian
 
 ---
 
