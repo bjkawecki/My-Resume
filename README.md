@@ -48,5 +48,5 @@ Berlin, Germany
 
 ---
 
-*Last update: 5. March 2025*
+*Last update: March 5, 2025*
 
