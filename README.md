@@ -8,8 +8,8 @@ Berlin, Germany
 ---
 
 ### 📝 **Summary**
-  Ambitious career changer in the field of web development with an educational background in the humanities.
-  Three years of experience with the Python framework Django and related technologies.
+  Ambitious career changer in the field of **web development** with an educational background in the humanities.
+  **Three years** of experience with the Python framework **Django** and related technologies.
   Passionate about digital learning platforms and open-source technologies.
 
 ---
